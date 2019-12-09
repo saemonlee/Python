@@ -311,5 +311,3 @@ listbox_dir.pack(side=BOTTOM, fill=BOTH, expand=1)  # 리스트박스 부착
 window.config(menu=menubar)  # 창에 메뉴바 추가
 window.mainloop()
 
-
-# 세팅 텍스트를 참고해 주요 설정을 할 수 있게 만들기
