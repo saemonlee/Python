@@ -1,0 +1,2 @@
+file_viewer=D:/Honeyview/Honeyview.exe
+open_directory=//Wdmycloud/saemon
